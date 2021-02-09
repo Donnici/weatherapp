@@ -23,8 +23,6 @@ export const defineTextColor = (): string => {
 };
 
 export const colors = {
-	primary: '#000000',
-
 	background: defineBackground(),
 	backgroundDark: '#232129',
 	backgroundLight: '#f4ede8',
