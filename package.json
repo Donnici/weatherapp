@@ -15,12 +15,20 @@
 		"@react-navigation/stack": "^5.14.2",
 		"axios": "^0.21.1",
 		"date-fns": "^2.17.0",
+		"lottie-ios": "3.1.8",
+		"lottie-react-native": "^3.5.0",
+		"rambda": "^6.5.3",
 		"react": "^17.0.1",
 		"react-native": "^0.63.4",
+		"react-native-feather": "^1.0.2",
+		"react-native-geolocation-service": "^5.2.0",
 		"react-native-gesture-handler": "^1.9.0",
+		"react-native-permissions": "^3.0.0",
 		"react-native-reanimated": "^1.13.2",
 		"react-native-safe-area-context": "^3.1.9",
 		"react-native-screens": "^2.17.1",
+		"react-native-svg": "^12.1.0",
+		"react-native-toast-message": "^1.4.3",
 		"rn-swipeable-panel": "^1.2.5",
 		"styled-components": "^5.2.1"
 	},
@@ -63,7 +71,7 @@
 	},
 	"rnpm": {
 		"assets": [
-			"./assests/fonts/"
+			"./assets/fonts/"
 		]
 	},
 	"jest": {
