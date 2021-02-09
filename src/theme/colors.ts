@@ -8,7 +8,7 @@ export const defineBackground = (): string => {
 	if (isBefore(now, startMorning) || isAfter(now, startNight)) {
 		return '#232129';
 	}
-	return '#f4ede8';
+	return '#87ceeb';
 };
 
 export const defineTextColor = (): string => {
@@ -24,11 +24,6 @@ export const defineTextColor = (): string => {
 
 export const colors = {
 	primary: '#000000',
-	secundary: '#E56536',
-
-	error: '#d9534f',
-	warning: '#f0ad4e',
-	success: '#5cb85c',
 
 	background: defineBackground(),
 	backgroundDark: '#232129',
