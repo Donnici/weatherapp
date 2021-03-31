@@ -15,9 +15,9 @@
     "skipLibCheck": true,
     "baseUrl": ".",
 		"paths": {
-			"@root/*": ["./*"],
-			"@theme": ["./src/theme"],
-			"@hooks/*": ["./src/hooks/*"]
+			"#root/*": ["./*"],
+			"#theme": ["./src/theme"],
+			"#hooks/*": ["./src/hooks/*"]
 		}
   },
   "exclude": [
